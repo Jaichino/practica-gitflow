@@ -5,3 +5,5 @@ se podrán aplicar conceptos tales como:
 - Comandos básicos de Git
 - Trabajo en distintas ramas
 - Envío de la información local al repositorio remoto de GitHub
+
+! Archivo listo para el Release de la V1.0.0
