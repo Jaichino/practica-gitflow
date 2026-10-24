@@ -1,0 +1,4 @@
+# Se eliminan de seguimiento git todos los archivos .tmp
+*.tmp
+# Se elimina de seguimiento git la carpeta de dependencias node_modules
+node_modules

@@ -1,0 +1,7 @@
+Este proyecto consiste en la práctica de los conceptos de Git y terminal dictados en el máster de la UCJC,
+se podrán aplicar conceptos tales como:
+
+- Metodología de trabajo Git Flow
+- Comandos básicos de Git
+- Trabajo en distintas ramas
+- Envío de la información local al repositorio remoto de GitHub
