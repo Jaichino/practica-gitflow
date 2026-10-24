@@ -1,1 +1,7 @@
 Bienvenido ! este es el ejercicio de Git para el máster de la UCJC
+
+### HOTFIX ###
+
+Código que soluciona el bug detectado en main ...
+
+### HOTFIX ###
