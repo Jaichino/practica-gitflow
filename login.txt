@@ -1,0 +1,5 @@
+Este archivo contiene el componente de login a la aplicación, el cual consiste en:
+
+- Un input para ingreso de username
+- Un input para ingreso de password
+- Un botón para llamar a la lógica de login e ingresar a aplicación
